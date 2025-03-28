@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello World!</title>
+<title>Nimra Shah!</title>
 <link rel="stylesheet" href="bluestyle.css">
 </head>
 <body>
 
-<h1>Hello world!</h1>
-<p>This is the first file in my new Git Repo.</p>
+<h1>Nimra Shah!</h1>
+<p>I'm doing bachelors in Media studies.</p>
 
 </body>
 </html>
